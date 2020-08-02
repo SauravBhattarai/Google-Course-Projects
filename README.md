@@ -1,2 +1,2 @@
 # Google-Course-Projects
-This is for the final capstone projects of Google's Automation and IT course
+This is for the  projects of Google's Automation and IT specialization course. 
